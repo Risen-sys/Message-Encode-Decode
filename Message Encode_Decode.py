@@ -9,7 +9,7 @@ root.title("Message Encode and Decode")
 
 Label(root, text = 'ENCODE DECODE', font = 'arial 20 bold').pack()
 
-Label(root, text = "Data", font = 'arial 20 bold').pack(side =BOTTOM)
+Label(root, text = "RisenSan", font = 'arial 20 bold').pack(side =BOTTOM)
 
 Text = StringVar()
 private_key = StringVar()
